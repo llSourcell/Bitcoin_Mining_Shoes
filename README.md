@@ -43,6 +43,10 @@ All dependencies can be installed from Thonny via Tools > Manage Packages. Type 
 ### Step 5 - Setup an Account on SlushPool 
 ### Step 6 - Setup Node.JS Web app on device #2 that collects Bitcoin address from Device #1 once every 24 hours, sends address to Slush Pool, and mines using Device #2. 
 
+## TODO
+
+Right now, device #1 only generates the address, while device #2 does the heavy lifting (block construction and block mining). This is due to the small amount of storage space available on the Raspberry Pi Pico (unable to store 500 GB blockchain). However, the Raspberry Pi full version can do all of this. So in a V2, the entire mining process should happen on device #1.
+
 ## Credits
 
 Credits go to Satoshi Nakamoto and the entire Bitcoin community. 

@@ -4,9 +4,11 @@ This is the code for the Bitcoin Mining Shoes and the #BitcoinMiningChallenge by
 # #BitcoinMiningChallenge - Deadline is 15 August 2022 at 12 PM PST. 
 
 Find a renewable energy source, like water, wind, solar, biofuel, geo-thermal, footsteps, etc. and use it for Bitcoin Mining! Post a picture
-or video of your miner on Twitter with the hashtag #BitcoinMiningChallenge! Then, submit your entry at this link to win a signed copy of my shoe and
+or video of your miner on Twitter with the hashtag #BitcoinMiningChallenge! Then, submit your entry at the link below to win a signed copy of my shoe and
 receive a shoutout in my next video. There will only be one winner, the more creative and educational your project, the higher your chance of winning. 
 Good luck! 
+
+# [Submission form](https://forms.gle/Tt4q8nrhT5CtssBg7)
 
 ## Hardware Dependencies
 - Raspberry Pi Pico

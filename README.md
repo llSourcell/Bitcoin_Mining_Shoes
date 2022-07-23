@@ -8,10 +8,6 @@ or video of your miner on Twitter with the hashtag #BitcoinMiningChallenge! Then
 receive a shoutout in my next video. There will only be one winner, the more creative and educational your project, the higher your chance of winning. 
 Good luck! 
 
-## Overview
-
-This is the code for "Bitcoin Mining Shoes in 4 minutes" on Youtube by Siraj Raval.
-
 ## Hardware Dependencies
 - Raspberry Pi Pico
 - ESP8266 WiFi Module

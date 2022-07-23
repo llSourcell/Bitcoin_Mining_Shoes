@@ -39,8 +39,7 @@ All dependencies can be installed from Thonny via Tools > Manage Packages. Type 
 ### Step 3 - Install Bitcoin Core on device #2 (like your laptop or desktop)
 ### Step 4 - Install PyMiner on that device #2
 ### Step 5 - Setup an Account on SlushPool 
-### Step 6 - Setup Node.JS Web app on device #2 that collects Bitcoin address from Device #1 once every 24 hours, sends address to Slush Pool,
-and mines using Device #2. 
+### Step 6 - Setup Node.JS Web app on device #2 that collects Bitcoin address from Device #1 once every 24 hours, sends address to Slush Pool, and mines using Device #2. 
 
 ## Credits
 
